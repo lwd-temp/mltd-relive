@@ -14,7 +14,7 @@ netifaces==0.11.0
 packaging==23.1
 pefile==2023.2.7
 pycryptodome==3.18.0
-pyinstaller==5.13.0
+pyinstaller==5.13.1
 pyinstaller-hooks-contrib==2023.6
 PyOpenGL==3.1.7
 pywin32-ctypes==0.2.2
